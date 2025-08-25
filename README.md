@@ -35,8 +35,8 @@
 - Agile Practices
 - Kanban
 
-🔭 I’m currently working on my portfolio site!
-📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/alexandra-straton-2747a019b/)
-[Personal Website](https://alexstraton.netlify.app/Contact)
+🔭 I’m currently working on my portfolio site!  
+📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/alexandra-straton-2747a019b/)  
+[Personal Website](https://alexstraton.netlify.app/Contact)  
 ⚡💃🏽Fun fact: I have been dancing 🕺salsa and 💃🏽bachata for about 17 years.
 

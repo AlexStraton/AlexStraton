@@ -3,7 +3,7 @@
 
 💻 I’m an avid software engineer passionate about constantly learning and building efficient systems and applications that make a positive impact around the world.
 
-🚀 After transitioning out of teaching and traslation, I attended the Northcoders bootcamp to sharpen my skills. I am now in my first junior full-stack developer role. 
+🚀 After transitioning out of teaching and translation, I attended the Northcoders bootcamp to sharpen my skills. I am now in my first junior full-stack developer role. 
 
 ✨ What excites me most about tech is that coding allows me to be creative and find solutions that make a real difference for stakeholders!
 

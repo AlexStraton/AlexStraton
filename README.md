@@ -1,7 +1,7 @@
 ## Hi there 👋
 ### About Me
 
-💻 I’m an avid software engineer passionate about constantly learning and building efficient systems and applications that make a positive impact around the world.
+💻 I’m a software engineer passionate about constantly learning and building efficient systems and applications that make a positive impact around the world.
 
 🚀 After transitioning out of teaching and translation, I attended the Northcoders bootcamp to sharpen my skills. I am now in my first junior full-stack developer role. 
 
